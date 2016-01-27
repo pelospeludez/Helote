@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/helote":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/helote","hostpath":"/home/pepe/Codigo/Helote","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/pepe/Codigo/Helote","disabled":false}}}
